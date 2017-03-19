@@ -1,0 +1,10 @@
+{
+    "name": "root/testing-jargon",
+    "authors": [
+        {
+            "name": "Kaynã Guarany",
+            "email": "kayna@guarany.net"
+        }
+    ],
+    "require": {}
+}
